@@ -1,5 +1,9 @@
 # Products
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/15948693/210873542-97d8d459-2a4a-4b24-9fa4-120fd99c38fc.png"/>
+</p>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
 ## Development server
