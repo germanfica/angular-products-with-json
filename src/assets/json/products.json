@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "name": "Coaxial Network Cable",
+        "price": 500
+    },
+    {
+        "id": 2,
+        "name": "Fiber Optic Cable",
+        "price": 999
+    },
+    {
+        "id": 3,
+        "name": "Unshielded Twisted Pair Network Cable",
+        "description": "These Ethernet Cables are great for the home office or any other environment.",
+        "price": 200,
+        "discount": 10
+    }
+]
